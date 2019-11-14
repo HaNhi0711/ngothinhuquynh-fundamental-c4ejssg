@@ -1,0 +1,25 @@
+div {
+    background-color: wheat;
+}
+#title {
+    background-color: wheat;
+    text-align: center;
+}
+.a {
+    background-color: wheat;
+    text-align: center;
+    text-transform: uppercase;
+}
+.b {
+    background-color: wheat;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.c {
+    background-color: wheat;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+}

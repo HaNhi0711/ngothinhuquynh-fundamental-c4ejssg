@@ -1,0 +1,27 @@
+p {
+    width: 200px;
+    height: 200px;
+    background-color: wheat;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+    /* Tạo 1 đường viền nét liền có độ dày 3px */
+    border-width: 3px;
+    /* Đổi màu đường viền */
+    border-style: solid;
+    border-color: blue;
+    /* Bo góc đường viền 1 khoảng tùy ý */
+    border-radius: 20px;
+}
+div {
+    background-color: wheat;
+    width: 400px;
+    border: 2px solid green;
+    /* Làm cho phần chữ cách phần viền trái 40 px */
+    padding-left: 40px;
+    /* Làm cho phần chữ cách phần viền phải 40px */
+    padding-right: 40px;
+    /* Làm cho phần chữ cách phần viền trên và dưới 45px */
+    padding-bottom: 45px;
+    padding-top: 45px
+}

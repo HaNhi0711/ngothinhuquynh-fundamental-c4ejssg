@@ -1,0 +1,13 @@
+#a >div {
+    background: wheat;
+    /* Khoảng trắng bên trái rộng 40px */
+    margin-left: 40px;
+    /* Khoảng trắng bên phải rộng 60px */
+    margin-right: 60px;
+    /* Khoảng trắng bên trên và bên dưới rộng 50px */
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#a {
+    border: 1px solid black
+}
